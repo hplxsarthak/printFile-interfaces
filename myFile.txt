@@ -1,0 +1,1 @@
+Hi! This is my new file which we want to open in the terminal using reader function, io.Copy etc
